@@ -9,6 +9,7 @@
 body{
   font-family: 'Ubuntu', sans-serif;
   height: 90vh;
+  background-color: #1F2937;
 }
 
 
@@ -28,7 +29,21 @@ nav{
   max-width: 1200px;
   margin: auto;
 }
+
 .left-side h3{
-  color: #ffff;
+  color: #F9FAF8;
   font-size: 2rem;
+}
+
+.right-side ul{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 1.4rem;
+}
+
+.right-side li a{
+  color: #ffff;
+  font-weight: 400;
+
 }
