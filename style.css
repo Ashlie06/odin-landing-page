@@ -113,3 +113,24 @@ header button{
   border-radius: 10px;
   margin-bottom: 1rem;
 }
+
+.quote{
+  height: 300px;
+  background-color: #E5E7Eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.quote-container{
+  font-size: 3rem;
+  max-width: 1200px;
+  margin: auto;
+}
+.quote-container h3{
+  font-style: italic;
+  font-weight: 300;
+}
+.quote-container h4{
+  text-align: right;
+  margin-top: 1rem;
+}
