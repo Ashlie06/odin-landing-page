@@ -29,9 +29,9 @@ nav{
   margin: auto;
 }
 
-.left-side h3{
-  color: #F9FAF8;
-  font-size: 2rem;
+.left-side img{
+  height: 50px;
+  border-radius: 50%;
 }
 
 .right-side ul{
@@ -82,4 +82,9 @@ header button{
   height: 500px;
   width: 500px;
   border-radius: 50%;
+}
+
+section{
+  background-color: #E5E7EB;
+  width: 100%;
 }
